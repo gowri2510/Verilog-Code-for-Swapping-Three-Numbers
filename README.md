@@ -50,7 +50,8 @@ end
 endmodule
 
 OUTPUT:
-![Screenshot (30)](https://github.com/user-attachments/assets/114035de-42e0-457c-8a98-bcc7cac87697)
+![Screenshot (30)](https://github.com/user-attachments/assets/52db4517-5019-4e88-b068-a91cc55f0efa)
+
 
 
 Conclusion
